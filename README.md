@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kyle!
 
-<!--
-**TheMightyXav/TheMightyXav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer.
+- Currently employed with the MTA.
+- Born in Canarsie → Raised in Canarsie → Currently in Canarsie.
+- Outside of work I like to play games and make content on Youtube.
+- Let's connect via email: Kylexjones1007@gmail.com
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+- Python
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
