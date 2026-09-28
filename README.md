@@ -18,3 +18,5 @@
 - Git
 - GitHub
 - VS Code
+- Javascript
+- C#
